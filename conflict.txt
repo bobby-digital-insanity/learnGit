@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-good text here!
-=======
-here is bad text
->>>>>>> dev
+good text here?
